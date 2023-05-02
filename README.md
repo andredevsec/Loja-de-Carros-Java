@@ -14,6 +14,12 @@ Loja de carros desenvolvida envolvendo todos paradigmas de Orientação Objetos 
 > Cadastra e pesquisa vendas
 ##
 
+# Técnologias utilizadas
+> Linguagem de programação JAVA
+
+> IDE Apache NetBeans versão 17
+##
+
 Segue um vídeo explicativo do código e um diagrama abaixo.
 
 https://youtu.be/4f5qepSjXt4
